@@ -6,14 +6,9 @@ h1 {
   background-color: green;
 }
 
-body p {
-  color: violet;
+p {
   font-size: 2em;
-  border: 5px dashed black;
-}
+  border: 5px dashed #c0c0c0;
+  padding: 5px 0px 5px 20 px;
 
-body p p {
-  color: red;
-  font-weight: lighter;
-  border: 5px solid blue;
 }
