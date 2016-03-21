@@ -4,5 +4,16 @@ h1 {
   font-size: 5em;
   font-family: sans-serif;
   background-color: green;
-  
+}
+
+body p {
+  color: violet;
+  font-size: 2em;
+  border: 5px dashed black;
+}
+
+body p p {
+  color: red;
+  font-weight: lighter;
+  border: 5px solid blue;
 }
